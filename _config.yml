@@ -13,8 +13,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Karanpal Singh
+  tagline: UBC MDS 2019-20 Student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
