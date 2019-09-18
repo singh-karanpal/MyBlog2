@@ -1,4 +1,4 @@
-title: Texture Theme
+title: Karanpal Singh
 author: Karanpal Singh
 email: karanpal.singh@alumni.ubc.ca
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -34,7 +34,7 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+ theme: texture
 
 plugins:
   - jekyll-seo-tag
