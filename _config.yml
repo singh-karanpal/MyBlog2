@@ -4,7 +4,7 @@ email: karanpal.singh@alumni.ubc.ca
 description: > # this means to ignore newlines until "show_exerpts:"
  Hi, This is my 2nd Blog.
 show_excerpts: true # set to true to show excerpts on the homepage
-#baseurl: /MyBlog2
+baseurl: /MyBlog2
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -34,7 +34,7 @@ texture:
 # - about.md
 
 # Build settings
- theme: texture
+ #theme: texture
 
 plugins:
   - jekyll-seo-tag
